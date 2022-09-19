@@ -1,0 +1,18 @@
+.lasagna,
+.omelette,
+.pancakes {
+  font-family: Helvetica, "Times New Roman", sans-serif;
+  font-size: 28px;
+}
+
+.lasagna {
+  background-color: red;
+}
+
+.omelette {
+  background-color: yellow;
+}
+.pancakes {
+    background-color: black;
+    color: white;
+  }
