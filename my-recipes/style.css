@@ -1,0 +1,23 @@
+.lasagna,
+.omelette,
+.checklist {
+  font-family: Helvetica, "Times New Roman", sans-serif;
+  font-size: 30px;
+}
+
+.lasagna {
+  background-color: red;
+}
+
+.omelette {
+  background-color: yellow;
+}
+.checklist {
+    background-color: black;
+    color: white;
+  }
+
+ .photo.proportioned {
+    height: auto;
+    width: 300px;
+  }
